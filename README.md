@@ -1,5 +1,5 @@
 # Web RTC Play
-## Created off clone from [![universal-react-boilerplate](https://github.com/cloverfield-tools/universal-react-boilerplate)]
+## Created off clone from [universal-react-boilerplate](https://github.com/cloverfield-tools/universal-react-boilerplate)
 # Universal React Boilerplate
 
 [![Dependency Status](https://david-dm.org/cloverfield-tools/universal-react-boilerplate.svg)](https://david-dm.org/cloverfield-tools/universal-react-boilerplate)

@@ -6,7 +6,7 @@
 [![devDependency Status](https://david-dm.org/cloverfield-tools/universal-react-boilerplate/dev-status.svg)](https://david-dm.org/cloverfield-tools/universal-react-boilerplate#info=devDependencies)
 [![Travis-CI](https://travis-ci.org/cloverfield-tools/universal-react-boilerplate.svg?branch=master)](https://travis-ci.org/cloverfield-tools/universal-react-boilerplate)
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/learn-javascript-courses/javascript-questions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/learn-javascript-courses/javascript-questions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Greenkeeper badge](https://badges.greenkeeper.io/mike131/webrtcplay.svg)](https://greenkeeper.io/)
 
 A simple boilerplate Node app featuring:
 
